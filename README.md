@@ -1,4 +1,4 @@
-# portfolio
+# My Telling Stories with Data Portfolio
 My portfolio of projects created in my Telling Stories with Data course at CMU.
 
 # About me
