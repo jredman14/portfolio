@@ -12,14 +12,14 @@ In this course, I'm looking forward to learning how to use Tableau, creating eff
 # Portfolio
 Here are a few examples of my work:
 
-# Assignment tk
-tktk
+# Assignment placeholder
+coming soon
 
-# Assignment tk
-tktk
+# Assignment placeholder
+coming soon
 
-# Assignment tk
-tktk
+# Assignment placeholder
+coming soon
 
 # Final Project
-tktk
+coming soon
