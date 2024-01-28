@@ -12,8 +12,8 @@ In this course, I'm looking forward to learning how to use Tableau, creating eff
 # Portfolio
 Here are a few examples of my work:
 
-# Assignment placeholder
-coming soon
+# Visualizing government debt using Tableau
+<iframe src="https://data.oecd.org/chart/7kjp" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7kjp" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
 # Assignment placeholder
 coming soon
