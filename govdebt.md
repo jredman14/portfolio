@@ -1,5 +1,5 @@
 # Visualizing government debt using Tableau
-In this exercise, I used data from the [OECD](https://data.oecd.org/gga/general-government-debt.htm) to display government debt-to-GDP ratios of various OECD member states between 1995 and 2022. The following visualizations show this data as a bar chart for the most recent year, as a heat map showing each country's ratio over time, and as box-and-whisker plots by country, showing the range of ratios within the timeframe. 
+In this exercise, I used data from the [Organisation for Economic Co-operation and Development (OECD)](https://data.oecd.org/gga/general-government-debt.htm) to display government debt-to-GDP ratios of various OECD member states between 1995 and 2022. The following visualizations show this data as a bar chart for the most recent year, as a heat map showing each country's ratio over time, and as box-and-whisker plots by country, showing the range of ratios within the timeframe. 
 
 Source: OECD (2024), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 29 January 2024)
 
