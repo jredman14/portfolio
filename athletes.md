@@ -83,3 +83,7 @@ I also adjusted the title and subtitle to fit this narrative, while also making 
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+# Conclusion
+
+Overall, I believe my new data visualization provides interesting insights to the data, and focuses on a particularly interesting feature of the data, while retaining the ability to show viewers who the highest paid athletes are. Understandable to a general audience while posing interesting questions about athlete's pay, I think the graph depicts the dataset in a new and interesting way. 
