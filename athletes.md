@@ -32,6 +32,39 @@ This was the first solution I came up with. Overall, I thought it had good bones
 
 I don't know that this graphic was all that successful. It was much easier to compare between catagories, though I think the overall simplicity and intuitiveness of the first graph was lost - it's more difficult to ascertain the total compensation of each athlete (visually, at least). The athletes are still ordered from highest to lowest (relatively speaking) earners, but the graph still feels a bit haphazard.
 
-Still, I decided to show both of these ideas to potential users for feedback, since some parts of one visualization could be superior or inferior to the other - I could forsee a scenario where feedback on an idea I didn't end up using could still be helpful in producing the final product. So, I found two people, both young adults in their mid 20s, to show these visualizations to.
+Still, I decided to show both of these ideas to potential users for feedback, since some parts of one visualization could be superior or inferior to the other - I could forsee a scenario where feedback on an idea I didn't end up using could still be helpful in producing the final product. So, I found two people, both young adults (non-students) in their mid 20s, to show these visualizations to.
 
 # User Feedback
+
+I asked the following questions to each person willing to give feedback:
+
+1. What are your first impressions of each graph?
+2. What are the first things you are drawn to?
+3. Is there anything that's unclear?
+4. Do you think this is comprehensible for a layperson?
+5. Would you add/remove/alter any of the features of the visualization?
+
+I thought it was particularly important to gauge how clear the visualization was for an average viewer, since the original visualization (having appeared in Forbes, a very highly-red publication) was probably geared toward the masses. I wanted to make sure the graph was not too complicated, while bringing more to the table visually. 
+
+Both people preferred the first solution to the second. 
+
+Both Person 1 and Person 2 thought that the first graph was much clearer in showing who was the highest paid, with Person 1 adding that the comparison between on- and off-field pay was still possible. Person 2 agreed that the first graph was reasonably clear to a layperson. Both agreed that the second graph's lack of a clear trend was confusing, and that while there was a more direct comparison between the on- and off-field salaries, the answer to the central question of "Who makes the most money?" was made much more unclear by the second graph. Person 2 also liked that the first graph was more "condensed" compared to the second graph, which was more spread out (with two bars per athlete). 
+
+In terms of specific changes they suggested, Person 1 said that the title "Highest Paid Athletes" was clear, but the visualization might benefit from something more "catchy" and something that could "pose a question/story." The title was something of a placeholder already, but I agreed that I could take a more interesting angle for the final product. Person 2 had a difficult time with some fo the fonts, and recommended some use of bolder text to improve readability. 
+
+Feeling fairly comfortable that the first option was my best bet (with a few alterations), I attended the in-person critique session and had another student look at my graph. The student immediately said that the color scheme needed work (using two colors was too much and the colors themselves were a bit too bright) and that I should get rid of the vertical lines marking certain dollar values, since they made the graph look too busy. I also showed the student the second graph and they agreed with most of the points above, and preferred the first graph. 
+
+When I looked at the other student's various ideas for their visualization, I really liked the tree chart they made for their dataset, so we thought it would be interesting to see if a tree chart worked well for my data. Turns out, it didn't work well at all. You can see below:
+
+<div class='tableauPlaceholder' id='viz1707269754054' style='position: relative'><noscript><a href='#'><img alt='Highest Paid Athletes ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Id&#47;Ideas3-4_jredman&#47;Idea3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Ideas3-4_jredman&#47;Idea3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Id&#47;Ideas3-4_jredman&#47;Idea3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1707269754054');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+I didn't exactly put much effort into improving the appearance, so this one is by far the most drafty of the prototypes, but it's clear ths data isn't a great fit for this type of chart. The yearly salaries aren't different enough for there to be a clear contrast between the size of each box - it was the most difficult graph I made in terms of making comparisons. And the contrast between on- and off-field pay was completely lost here. This was a fun idea, but in practice it would have been a poor choice.
+
