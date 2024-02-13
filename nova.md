@@ -7,25 +7,40 @@ More generally, I want to explore the overall health of northern Virginia as a r
 Overall, I want to begin with the more positive metrics, then transition to metrics that paint a less rosy picture, before ending with my final sobering point and suggestions for the future. An overview of the structure is below:
 
 The overall population continues to grow, across the area, especially in outlying Loudoun and Prince William Counties.
-	•	Data sources
-    o U.S. Census Bureau, Resident Population in Fairfax County, VA [VAFAIR5POP], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/VAFAIR5POP, February 11, 2024.
-    o U.S. Census Bureau, Resident Population in Arlington County, VA [VAARLI0POP], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/VAARLI0POP, February 11, 2024.
-    o U.S. Census Bureau, Resident Population in Loudoun County, VA [VALOUD5POP], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/VALOUD5POP, February 11, 2024.
-    o U.S. Census Bureau, Resident Population in Prince William County, VA [VAPRIN3POP], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/VAPRIN3POP, February 11, 2024.
+
+• Data sources
+
+	o U.S. Census Bureau, Resident Population in Fairfax County, VA [VAFAIR5POP], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/VAFAIR5POP, February 11, 2024.
+	
+	o U.S. Census Bureau, Resident Population in Arlington County, VA [VAARLI0POP], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/VAARLI0POP, February 11, 2024.
+	
+	o U.S. Census Bureau, Resident Population in Loudoun County, VA [VALOUD5POP], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/VALOUD5POP, February 11, 2024.
+	
+	o U.S. Census Bureau, Resident Population in Prince William County, VA [VAPRIN3POP], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/VAPRIN3POP, February 11, 2024.
 
 The area remains very wealthy, with each county having a median household income of over $100,000.
-•	Data sources
-    o	U.S. Census Bureau, Estimate of Median Household Income for Fairfax County, VA [MHIVA51059A052NCEN], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/MHIVA51059A052NCEN, February 11, 2024.
-    o	U.S. Census Bureau, Estimate of Median Household Income for Arlington County, VA [MHIVA51013A052NCEN], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/MHIVA51013A052NCEN, February 11, 2024.
-    o	U.S. Census Bureau, Estimate of Median Household Income for Loudoun County, VA [MHIVA51107A052NCEN], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/MHIVA51107A052NCEN, February 11, 2024.
-    o	U.S. Census Bureau, Estimate of Median Household Income for Prince William County, VA [MHIVA51153A052NCEN], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/MHIVA51153A052NCEN, February 11, 2024.
+
+• Data sources
+
+o U.S. Census Bureau, Estimate of Median Household Income for Fairfax County, VA [MHIVA51059A052NCEN], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/MHIVA51059A052NCEN, February 11, 2024.
+
+o U.S. Census Bureau, Estimate of Median Household Income for Arlington County, VA [MHIVA51013A052NCEN], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/MHIVA51013A052NCEN, February 11, 2024.
+
+o U.S. Census Bureau, Estimate of Median Household Income for Loudoun County, VA [MHIVA51107A052NCEN], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/MHIVA51107A052NCEN, February 11, 2024.
+
+o U.S. Census Bureau, Estimate of Median Household Income for Prince William County, VA [MHIVA51153A052NCEN], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/MHIVA51153A052NCEN, February 11, 2024.
 
 However, poverty has remained stagnant, overall, and has seen periodic increases over the years.
-•	Data sources
-    o	U.S. Census Bureau, Estimated Percent of People of All Ages in Poverty for Fairfax County, VA [PPAAVA51059A156NCEN], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PPAAVA51059A156NCEN, February 11, 2024.
-    o	U.S. Census Bureau, Estimated Percent of People of All Ages in Poverty for Arlington County, VA [PPAAVA51013A156NCEN], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PPAAVA51013A156NCEN, February 11, 2024.
-    o	U.S. Census Bureau, Estimated Percent of People of All Ages in Poverty for Loudoun County, VA [PPAAVA51107A156NCEN], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PPAAVA51107A156NCEN, February 11, 2024.
-    o	U.S. Census Bureau, Estimated Percent of People of All Ages in Poverty for Prince William County, VA [PPAAVA51153A156NCEN], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PPAAVA51153A156NCEN, February 11, 2024.
+
+• Data sources
+
+o U.S. Census Bureau, Estimated Percent of People of All Ages in Poverty for Fairfax County, VA [PPAAVA51059A156NCEN], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PPAAVA51059A156NCEN, February 11, 2024.
+
+o U.S. Census Bureau, Estimated Percent of People of All Ages in Poverty for Arlington County, VA [PPAAVA51013A156NCEN], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PPAAVA51013A156NCEN, February 11, 2024.
+
+o U.S. Census Bureau, Estimated Percent of People of All Ages in Poverty for Loudoun County, VA [PPAAVA51107A156NCEN], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PPAAVA51107A156NCEN, February 11, 2024.
+
+o U.S. Census Bureau, Estimated Percent of People of All Ages in Poverty for Prince William County, VA [PPAAVA51153A156NCEN], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PPAAVA51153A156NCEN, February 11, 2024.
 
 Home ownership rate has lagged behind (though Prince William is seeing a positive trend).
   •	Data sources
