@@ -8,8 +8,8 @@ Overall, I want to begin with the more positive metrics, then transition to metr
 
 The overall population continues to grow, across the area, especially in outlying Loudoun and Prince William Counties.
 	•	Data sources
-    o U.S. Census Bureau, Resident Population in Fairfax County, VA [VAFAIR5POP], retrieved from FRED, Federal Reserve Bank of St. Louis; [https://fred.stlouisfed.org/series/VAFAIR5POP](https://fred.stlouisfed.org/series/VAFAIR5POP), February 11, 2024.
-    o U.S. Census Bureau, Resident Population in Arlington County, VA [VAARLI0POP], retrieved from FRED, Federal Reserve Bank of St. Louis; [https://fred.stlouisfed.org/series/VAARLI0POP], February 11, 2024.
+    o U.S. Census Bureau, Resident Population in Fairfax County, VA [VAFAIR5POP], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/VAFAIR5POP, February 11, 2024.
+    o U.S. Census Bureau, Resident Population in Arlington County, VA [VAARLI0POP], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/VAARLI0POP, February 11, 2024.
     o U.S. Census Bureau, Resident Population in Loudoun County, VA [VALOUD5POP], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/VALOUD5POP, February 11, 2024.
     o U.S. Census Bureau, Resident Population in Prince William County, VA [VAPRIN3POP], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/VAPRIN3POP, February 11, 2024.
 
