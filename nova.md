@@ -1,3 +1,6 @@
+# Final Project Part 1
+For this assignment, I proposed a topic for my final project in Telling Stories with Data. Below, you'll find a summary of my proposal, an outline of my project, the data sources I plan to use in various visualizations, rough sketches of said visualizations, and my initial idea for how I will compile and present my project.
+
 # Summary
 Being a northern Virginia native, I’ve watched my home area grow and change for roughly two decades now. Whether it be as small as the county building a bike lane connecting my community to a shopping center, or as large as the intense development near the western urban fringe, northern Virginia is a dynamic, thriving suburb in many ways. But the suburban way of life — with its car-centric infrastructure, fertilized green lawns, sprawling infrastructure, and deeply Euclidian zoning — feels like the antithesis of sustainability. And given that the cost of living has risen substantially over the years, it’s fair to wonder whether the current development patterns are meeting the needs of residents. 
 
@@ -101,9 +104,13 @@ Overall, I want to begin with the more positive metrics, then transition to metr
 Overall, based on the data, it’s fair to wonder whether the Northern Virginia area is providing a **quality built environment** within its population centers to support **sustainable lifestyles** and prevent the area from sprawling out further. **Infill development to increase density** within the current suburban footprint could help support the area’s future.
 
 # Sketches
+
 image
+
 I want to use the datasets from the Census and from the Federal Reserve Bank to create line graphs to show the trends over time, comparing values from the different counties (population, income, poverty, home ownership, building permits, transit mode share, commute times), and perhaps including a line on each graph representing the total trend (by creating a “Sum” column in my spreadsheet files, where applicable). 
+
 image
+
 The raster dataset shows the impervious surface cover across America over time (with a slider that allows the viewer to see the impervious cover between the years 2001 to 2021), and I plan on using the county boundary feature classes to show the impervious surface cover within the “study area” (Fairfax, Prince William, Arlington, and Loudoun Counties). 
 
 # Method
