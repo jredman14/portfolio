@@ -103,11 +103,11 @@ Overall, I want to begin with the more positive metrics, then transition to metr
 
 Overall, based on the data, it’s fair to wonder whether the Northern Virginia area is providing a **quality built environment** within its population centers to support **sustainable lifestyles** and prevent the area from sprawling out further. **Infill development to increase density** within the current suburban footprint could help support the area’s future.
 
-# Sketches
+# Data Usage and Sketches
 
 image
 
-I want to use the datasets from the Census and from the Federal Reserve Bank to create line graphs to show the trends over time, comparing values from the different counties (population, income, poverty, home ownership, building permits, transit mode share, commute times), and perhaps including a line on each graph representing the total trend (by creating a “Sum” or "Mean" column in my spreadsheet files, where applicable). 
+I want to use the datasets from the Census and from the Federal Reserve Bank of St. Louis to create line graphs to show the trends over time, comparing values from the different counties (population, income, poverty, home ownership, building permits, transit mode share, commute times), and perhaps including a line on each graph representing the total trend (by creating a “Sum” or "Mean" column in my spreadsheet files, where applicable). 
 
 image
 
