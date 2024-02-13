@@ -6,7 +6,7 @@ More generally, I want to explore the overall health of northern Virginia as a r
 # Outline
 Overall, I want to begin with the more positive metrics, then transition to metrics that paint a less rosy picture, before ending with my final sobering point and suggestions for the future. An overview of the structure is below:
 
-The overall population continues to grow, across the area, especially in outlying Loudoun and Prince William Counties.
+**The overall population continues to grow, across the area, especially in outlying Loudoun and Prince William Counties.**
 
 	Data sources
 
@@ -18,7 +18,7 @@ The overall population continues to grow, across the area, especially in outlyin
 	
 	o U.S. Census Bureau, Resident Population in Prince William County, VA [VAPRIN3POP], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/VAPRIN3POP, February 11, 2024.
 
-The area remains very wealthy, with each county having a median household income of over $100,000.
+**The area remains very wealthy, with each county having a median household income of over $100,000.**
 
 	Data sources
 	
@@ -30,7 +30,7 @@ The area remains very wealthy, with each county having a median household income
 	
 	o U.S. Census Bureau, Estimate of Median Household Income for Prince William County, VA [MHIVA51153A052NCEN], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/MHIVA51153A052NCEN, February 11, 2024.
 
-However, poverty has remained stagnant, overall, and has seen periodic increases over the years.
+**However, poverty has remained stagnant, overall, and has seen periodic increases over the years.**
 
 	Data sources
 	
@@ -42,7 +42,7 @@ However, poverty has remained stagnant, overall, and has seen periodic increases
 	
 	o U.S. Census Bureau, Estimated Percent of People of All Ages in Poverty for Prince William County, VA [PPAAVA51153A156NCEN], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PPAAVA51153A156NCEN, February 11, 2024.
 
-Home ownership rate has lagged behind (though Prince William is seeing a positive trend).
+**Home ownership rate has lagged behind (though Prince William is seeing a positive trend).**
 
 	Data sources
 	
@@ -54,7 +54,7 @@ Home ownership rate has lagged behind (though Prince William is seeing a positiv
 	
 	o U.S. Census Bureau, Homeownership Rate (5-year estimate) for Prince William County, VA [HOWNRATEACS051153], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/HOWNRATEACS051153, February 11, 2024.
 
-And the number of building permits for housing has decreased in many areas, especially in Fairfax and Prince William Counties.
+**And the number of building permits for housing has decreased in many areas, especially in Fairfax and Prince William Counties.**
 
 	Data sources
 	
@@ -66,13 +66,13 @@ And the number of building permits for housing has decreased in many areas, espe
 	
 	o U.S. Census Bureau, New Private Housing Structures Authorized by Building Permits for Prince William County, VA [BPPRIV051153], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/BPPRIV051153, February 11, 2024.
 
-The areas continue to be largely car dependent, especially outside of Arlington County.
+**The areas continue to be largely car dependent, especially outside of Arlington County.**
 
 	Data sources
 	
 	o U.S. Census Bureau. "Commuting Characteristics by Sex." American Community Survey, ACS 5-Year Estimates Subject Tables, Table S0801, 2022, https://data.census.gov/table/ACSST5Y2022.S0801?q=s0801&g=050XX00US51013,51059,51107,51153. Accessed on February 12, 2024.
 	
-And, save for a recent decline (perhaps attributable to remote work), commute times have increased over the years:
+**And, save for a recent decline (perhaps attributable to remote work), commute times have increased over the years.**
 
 	Data sources
 	
@@ -84,7 +84,7 @@ And, save for a recent decline (perhaps attributable to remote work), commute ti
 	
 	o U.S. Census Bureau, Mean Commuting Time for Workers (5-year estimate) in Prince William County, VA [B080ACS051153], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/B080ACS051153, February 11, 2024.
 
-The increase in commute times and car dependence of the area is made apparent by the growth of impervious surfaces in the past couple decades, which shows significant urban sprawl.
+**The increase in commute times and car dependence of the area is made apparent by the growth of impervious surfaces in the past couple decades, which shows significant urban sprawl.**
 
 	Data sources
 	
@@ -98,7 +98,7 @@ The increase in commute times and car dependence of the area is made apparent by
 	
 	o Loudoun County Boundary. Loudoun County GeoHub and Open Data, https://geohub-loudoungis.opendata.arcgis.com/datasets/cd56614ff14f44fb82f50a8baf427125_0/explore. Accessed 12 Feb. 2024.
 
-Overall, based on the data, it’s fair to wonder whether the Northern Virginia area is providing a quality built environment within its population centers to support sustainable lifestyles and prevent the area from sprawling out further. Infill development to increase density within the current suburban footprint could help support the area’s future.
+Overall, based on the data, it’s fair to wonder whether the Northern Virginia area is providing a **quality built environment** within its population centers to support **sustainable lifestyles** and prevent the area from sprawling out further. **Infill development to increase density** within the current suburban footprint could help support the area’s future.
 
 # Sketches
 image
