@@ -34,8 +34,8 @@ Here are a few examples of my work:
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-# Assignment placeholder
-coming soon
+# [Final Project Part 1](/finalproposal.md)
+This page contains my final project proposal, which includes a summary, outline, data sources and rough sketches, and the programs I plan to use to finish my project. 
 
 # Final Project
 coming soon
