@@ -117,7 +117,7 @@ Overall, I want to begin with the more positive metrics, then transition to metr
 	Data sources
 	
 	o USA NLCD Impervious Surface Time Series. USGS, ESRI, 
- 		https://carnegiemellon.maps.arcgis.com/home/item.html?id=1fdbb561c58b45c58f8f966c00c78ae6. Accessed 12 Feb. 2024.
+ 		https://www.arcgis.com/home/item.html?id=1fdbb561c58b45c58f8f966c00c78ae6. Accessed 12 Feb. 2024.
 	
 	o County Polygon. Arlington County, Virginia GIS Open Data, 
  		https://gisdata-arlgis.opendata.arcgis.com/datasets/c8b70c8f91a24926aa874802165e0172_0/explore. Accessed 12 Feb. 2024.
@@ -135,13 +135,17 @@ Overall, based on the data, it’s fair to wonder whether the Northern Virginia 
 
 # Data Usage and Sketches
 
-image
+![image](https://github.com/jredman14/portfolio/assets/156849712/e64af56a-2d7f-41fd-9c87-2c4a49713377)
 
-I want to use the datasets from the Census and from the Federal Reserve Bank of St. Louis to create line graphs to show the trends over time, comparing values from the different counties (population, income, poverty, home ownership, building permits, transit mode share, commute times), and perhaps including a line on each graph representing the total trend (by creating a “Sum” or "Mean" column in my spreadsheet files, where applicable). 
+![image](https://github.com/jredman14/portfolio/assets/156849712/04f78b18-965b-4388-8320-af0e0115bc9a)
 
-image
+I want to use the datasets from the Census and from the Federal Reserve Bank of St. Louis to create line graphs to show the trends over time, comparing values from the different counties (population, income, poverty, home ownership, building permits, car usage, commute times), and perhaps including a line on each graph representing the total trend (by creating a “Sum” or "Mean" column for each year in my spreadsheet files, where applicable). In Figures 1 and 2 above, you'll see examples of what those line graphs will look like, with one example showing an "average" line (a good fit for an income graph, for example) and another showing a "sum" line (a good fit for a metric like building permits issued). 
 
-The raster dataset shows the impervious surface cover across America over time (with a slider that allows the viewer to see the impervious cover between the years 2001 to 2021), and I plan on using the county boundary feature classes to show the impervious surface cover within the “study area” (Fairfax, Prince William, Arlington, and Loudoun Counties). 
+![image](https://github.com/jredman14/portfolio/assets/156849712/c20059b3-ef7a-4475-ab8a-562dae63d47d)
+
+The USA NLCD Impervious Surface Time Series from ESRI and the USGS shows the impervious surface cover across America over time (with a slider that allows the viewer to see the impervious cover between the years 2001 to 2021), and I plan on using the county boundary feature classes I downloaded from the county GeoHubs to show the impervious surface cover within the “study area” (Fairfax, Prince William, Arlington, and Loudoun Counties). Figure 3 above shows a rough approximation of what I expect this map to look like (I would also use a street basemap to capture some of the growth around corridors). 
+
+Taken together, I believe that this collection of visuals will help support my story structure I outlined above, showing Northern Virginia to be an area that needs to rethink its development patterns to meet the needs of its present and future residents. 
 
 # Method
 I believe that using Shorthand and Tableau will be best for my project, since I’ll easily be able to embed my data visualizations. While ArcGIS StoryMaps might make for a slightly better interactive map with the impervious surface (and give the user the ability to adjust the map themselves), however (to my knowledge) StoryMaps does not support HTML code, which would make it more difficult to have high quality data visualizations. 
