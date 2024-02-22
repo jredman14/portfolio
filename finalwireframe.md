@@ -73,6 +73,10 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+![NOVA2001](https://github.com/jredman14/portfolio/assets/156849712/d5aeed50-1542-42c3-b85a-5fc35fffa60b)
+
+![NOVA2021](https://github.com/jredman14/portfolio/assets/156849712/b6b61903-da77-4468-b402-f3dfb926a5ab)
+
 Text here!
 
 # User research 
