@@ -126,8 +126,6 @@ Text here!
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
 | Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | Given your knowledge of the area, is there anything notable you think I missed? |           |             |             |
