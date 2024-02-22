@@ -7,6 +7,7 @@ Northern Virginia is a dynamic area - as my hometown, I've been witness to a lot
 
 
 **Northern Virginia Continues to Grow in Population**
+
 Fairfax is still the largest county by far, but outer-ring counties like Loudoun and Prince William are far outpacing more dense Arlington County in population growth.
 
 <div class='tableauPlaceholder' id='viz1708587948950' style='position: relative'><noscript><a href='#'><img alt='Population Continues to Increase in Northern VirginiaNumber of people living in Fairfax, Arlington, Loudoun, and Prince William Counties (in thousands, 1970-2022) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NO&#47;NOVA_17085879082270&#47;Population&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NOVA_17085879082270&#47;Population' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NO&#47;NOVA_17085879082270&#47;Population&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
@@ -21,6 +22,7 @@ Fairfax is still the largest county by far, but outer-ring counties like Loudoun
 
 
 **Incomes have continued to rise throughout the area**
+
 Loudoun County outpaces the other counties in the region significantly, though all have a median income of $100,000 or more.
 
 <div class='tableauPlaceholder' id='viz1708588080055' style='position: relative'><noscript><a href='#'><img alt='Each County in Northern Virginia has a Median Income Greater than $100,000Median Income in Fairfax, Arlington, Loudoun, and Prince William Counties (in U.S. dollars, 1993-2022) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NO&#47;NOVA_17085879082270&#47;Income&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NOVA_17085879082270&#47;Income' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NO&#47;NOVA_17085879082270&#47;Income&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
@@ -33,6 +35,11 @@ Loudoun County outpaces the other counties in the region significantly, though a
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+
+**But poverty rate has not seen an equivalent drop, so not everyone is sharing in the wealth.**
+
+Arlington has seen a poverty rate as high as 8.5% in the past decade.
+
 <div class='tableauPlaceholder' id='viz1708588134544' style='position: relative'><noscript><a href='#'><img alt='Poverty has not Dropped, Even with Higher Overall Income Poverty Rate in Fairfax, Arlington, Loudoun, and Prince William Counties (1989-2022) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NO&#47;NOVA_17085879082270&#47;Poverty&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NOVA_17085879082270&#47;Poverty' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NO&#47;NOVA_17085879082270&#47;Poverty&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1708588134544');                    
@@ -43,6 +50,11 @@ Loudoun County outpaces the other counties in the region significantly, though a
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+
+**Despite the overall population growth and higher wages, home ownership rate has lagged in the past decade.**
+
+All counties had a lower percentage of residents owning their homes in 2022 than in 2009, with the overall trend being stagnant.
+
 <div class='tableauPlaceholder' id='viz1708588239044' style='position: relative'><noscript><a href='#'><img alt='Outside of Prince William, Home Ownership Rate has Flat-LinedHome Ownership Rate in Fairfax, Arlington, Loudoun, and Prince William Counties (2009-2022) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NO&#47;NOVA_17085879082270&#47;HomeOwn&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NOVA_17085879082270&#47;HomeOwn' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NO&#47;NOVA_17085879082270&#47;HomeOwn&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1708588239044');                    
@@ -52,6 +64,11 @@ Loudoun County outpaces the other counties in the region significantly, though a
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+
+**Perhaps that can be partially explained by the lower number of building permits for residences being issued.**
+
+The number of permits issued has dropped significantly since a peak near the 21st century (driven by Fairfax, Loudoun and Prince William, Arlington has typically issued fewer building permits).
 
 <div class='tableauPlaceholder' id='viz1708588306411' style='position: relative'><noscript><a href='#'><img alt='Despite Continued Growth, Home Building has StalledNumber of Building Permits for Private Housing Structures in Fairfax, Arlington, Loudoun, and Prince William Counties (1990-2022) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NO&#47;NOVA_17085879082270&#47;BuildPermit&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NOVA_17085879082270&#47;BuildPermit' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NO&#47;NOVA_17085879082270&#47;BuildPermit&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
