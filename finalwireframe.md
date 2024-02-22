@@ -3,6 +3,12 @@
 # Wireframes / storyboards
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project.
 
+Northern Virginia is a dynamic area - as my hometown, I've been witness to a lot of the growth the area has seen in the past two decades. From intense development in the ex-urbs, to new toll roads and train stations, and huge lifestyle centers being built, NOVA continues to change - not always for the better. Ultimately, I want to use the following metrics to argue for a more sustainable, compact development structure.
+
+
+**Northern Virginia Continues to Grow in Population**
+Fairfax is still the largest county by far, but outer-ring counties like Loudoun and Prince William are far outpacing more dense Arlington County in population growth.
+
 <div class='tableauPlaceholder' id='viz1708587948950' style='position: relative'><noscript><a href='#'><img alt='Population Continues to Increase in Northern VirginiaNumber of people living in Fairfax, Arlington, Loudoun, and Prince William Counties (in thousands, 1970-2022) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NO&#47;NOVA_17085879082270&#47;Population&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NOVA_17085879082270&#47;Population' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NO&#47;NOVA_17085879082270&#47;Population&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1708587948950');                    
@@ -12,6 +18,10 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+
+**Incomes have continued to rise throughout the area**
+Loudoun County outpaces the other counties in the region significantly, though all have a median income of $100,000 or more.
 
 <div class='tableauPlaceholder' id='viz1708588080055' style='position: relative'><noscript><a href='#'><img alt='Each County in Northern Virginia has a Median Income Greater than $100,000Median Income in Fairfax, Arlington, Loudoun, and Prince William Counties (in U.S. dollars, 1993-2022) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NO&#47;NOVA_17085879082270&#47;Income&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NOVA_17085879082270&#47;Income' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NO&#47;NOVA_17085879082270&#47;Income&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
