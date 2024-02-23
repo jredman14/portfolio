@@ -101,9 +101,7 @@ Northern Virginia is a dynamic area - as my hometown, I've been witness to a lot
 
 **As you'll see in the figures below, the overall impervious footprint in NOVA has increased significantly in the past two decades. This "sprawl" is associated with "increased energy use, pollution, and traffic congestion and a decline in community distinctiveness and cohesiveness," according to [Encyclopædia Brittanica's *Saving Earth* project](https://www.britannica.com/explore/savingearth/urban-sprawl).**  
 
-![NOVA2001](https://github.com/jredman14/portfolio/assets/156849712/d5aeed50-1542-42c3-b85a-5fc35fffa60b)
-
-![NOVA2021](https://github.com/jredman14/portfolio/assets/156849712/b6b61903-da77-4468-b402-f3dfb926a5ab)
+![01to21](https://github.com/jredman14/portfolio/assets/156849712/581cbac2-624c-4346-9ede-21594a48458f)
 
     Sources
     USA NLCD Impervious Surface Time Series. USGS, ESRI, 
