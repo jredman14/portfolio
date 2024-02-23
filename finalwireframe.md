@@ -105,6 +105,22 @@ Northern Virginia is a dynamic area - as my hometown, I've been witness to a lot
 
 ![NOVA2021](https://github.com/jredman14/portfolio/assets/156849712/b6b61903-da77-4468-b402-f3dfb926a5ab)
 
+    Sources
+    USA NLCD Impervious Surface Time Series. USGS, ESRI, 
+     		https://www.arcgis.com/home/item.html?id=1fdbb561c58b45c58f8f966c00c78ae6. Accessed 12 Feb. 2024.
+    	
+    County Polygon. Arlington County, Virginia GIS Open Data, 
+     		https://gisdata-arlgis.opendata.arcgis.com/datasets/c8b70c8f91a24926aa874802165e0172_0/explore. Accessed 12 Feb. 2024.  
+    	
+    Fairfax County Boundary. Fairfax County GIS & Mapping Services Open Data Site, 
+     		https://data-fairfaxcountygis.opendata.arcgis.com/datasets/e6e10e55d29642238d4d03b1a4a11b09_0/explore. Accessed 12 Feb. 2024.
+    	
+    Jurisdictions. GIS Data Portal for Prince William County, Virginia, 
+     		https://gisdata-pwcgov.opendata.arcgis.com/datasets/26e0c74d4fe845d7a5871c0747e6e74f_19/explore. Accessed 12 Feb. 2024.
+    	
+    Loudoun County Boundary. Loudoun County GeoHub and Open Data, 
+     		https://geohub-loudoungis.opendata.arcgis.com/datasets/cd56614ff14f44fb82f50a8baf427125_0/explore. Accessed 12 Feb. 2024.
+
 Overall, it is critical that NOVA does not continue down this development path. Based on the data analysis above, I believe it is crucial to focus on infill housing and commercial development in Arlington and the denser portions of Fairfax, rather than outlying areas in Loudoun and Prince William. This change in overall planning strategy will help create a more sustainable and livable future for NOVA residents. 
 
 # User research 
