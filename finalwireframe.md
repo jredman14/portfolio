@@ -1,4 +1,4 @@
-[final project I](/finalproposal.html)
+[final project I](/portfolio/finalproposal.html)
 
 # Wireframes / storyboards
 Northern Virginia is a dynamic area - as my hometown, I've been witness to a lot of the growth the area has seen in the past two decades. From intense development in the ex-urbs, to new toll roads and train stations, and huge lifestyle centers being built, NOVA continues to change - not always for the better. Ultimately, I want to use the following metrics to argue for a more sustainable, compact development structure.
@@ -138,15 +138,15 @@ My main audience is policymakers and the public in Northern Virginia. I ultimate
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-| Questions | Interview 1 (mid 20s, NOVA resident | Interview 2 (mid 20s, NOVA resident | Interview 3 (mid 20s, spent time in NOVA)|
-|-------------------------|--------------------------------|-------------|-------------|
-| Given your knowledge of the area, is there anything notable you think I missed? |           |             |             |
-| What other population level statistics would have been useful in explaning the development patterns of the area? |             |             |             |
-| Did the overall points of the narrative come across well? |             |             |             |
-| Would you have been able to understand the general point of the narrative without the text I included with the visualization? |             |             |             |
-| Did the visualizations themselves come across clearly? |             |             |             |
-| What visualizations that I didn't include here would you recommend including? |             |             |             |
-| Is there any form of analysis that would make the analysis more persuasive? |             |             |             |
+| Questions | Interview 1 (civil engineer, mid 20s, NOVA resident | Interview 2 (product manager, mid 20s, NOVA resident | Interview 3 (freelance creative, mid 20s, spent time in NOVA)|
+|-----------|--------------------------------|-----------------------------------|----------------------------------|
+| Given your knowledge of the area, is there anything notable you think I missed? | Could look into transit development in the area to see how that's impacted car dependency (though it seems like maybe it hasn't) | Data on jobs - corporations like Amazon coming to area have brought a lot of new development |             |
+| What other population level statistics would have been useful in explaning the development patterns of the area? | Housing density in the area could be another interesting metric for measuring sprawl | Mean home size, frequency that people move, how often people lease out their homes - would be interesting to see if trends are due to people getting evicted, people downsizing, people buying second properties, etc. |             |
+| Did the overall points of the narrative come across well? | Overall was good, but would be good to emphasize the connection between building permits and sustainability - didn't see the relationship there | "Yeah!" |             |
+| Would you have been able to understand the general point of the narrative without the text I included with the visualization? | The visualizations did mostly "stand on their own" | Only the impervious surface map would have required some explanation |             |
+| Did the visualizations themselves come across clearly? | Would be good to make the county lines different colors to they're easier to distinguish from each other and maybe make the mean/total line different on each graph if I want it to stand out | "Yes, fairly intuitive and easy to digest." |             |
+| What visualizations that I didn't include here would you recommend including? | Housing density heat map | Some visualization that depicts what the characteristics of the typical/average person in the area |             |
+| Is there any form of analysis that would make the analysis more persuasive? | Housing density analysis | Speak to what the result would be if trends continued and describe what I mean by "livable." |             |
 
 ## Critique findings
 tktk
