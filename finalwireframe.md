@@ -1,4 +1,4 @@
-[Final Project Part I](/portfolio/finalproposal.html)
+[Final Project Part 1](/portfolio/finalproposal.html)
 
 # Wireframes / storyboards
 Northern Virginia is a dynamic area - as my hometown, I've been witness to a lot of the growth the area has seen in the past two decades. From intense development in the ex-urbs, to new toll roads and train stations, and huge lifestyle centers being built, NOVA continues to change - not always for the better. Ultimately, I want to use the following metrics to argue for a more sustainable, compact development structure.
