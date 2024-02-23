@@ -149,17 +149,17 @@ My main audience is policymakers and the public in Northern Virginia. I ultimate
 | Is there any form of analysis that would make the analysis more persuasive? | Housing density analysis | Speak to what the result would be if trends continued and describe what I mean by "livable." | Financial figures that might support the analysis |
 
 ## Critique findings
-tktk
+The main thing that came out of the critique was that it would be useful to include a comparison to another place that has developed more sustainably, so the outcomes could seem more concrete. I thought that was a good idea, so I'm planning on including that in part 3.
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| More data on housing density and trends would help support the analysis | Could be interesting to make a heat map of housing density, assuming the data is available - it would be another indicator of sprawl that would pair well with the impervious surface map. |
+| More data on job trends and work from home would help support the analysis | These data points might be a tad too specific and small-sample-size, respectively, to make a visualization work (job data can be difficult to obtain when you're talking about specific companies and work-from-home is still quite new as a significant factor in the analysis). I will look into my options, though, and see what I can gather. |
+| The gray lines blend together too much and make county comparisons difficult | I did intentionally gray those out to make the mean and total lines appear more prominent, however I think using different colors but with some transparancy for the county lines might be better - I'll make that change. |
+| My dicussion on livability was a bit half baked - put more into discussing how each of the factors contribute to better or worse livability | I'll write a bit more and incorporate some more research into the final to support my points here, and make the connections between metrics like home building and sustainability/livability more clear (that does require a bit of explanation about density, home prices, etc.). I'll also write a bit more about the consequences of inaction, which should help as a storytelling device as well. Possibly making a simple infographic about what the characteristics of the average person, as one of my interviewees suggested, could help bring context here too. |
+| Defititions of challenging words could be useful | Definitions can also be cool from a design standpoint too, which could help improve the aesthetic of the final Shorthand page, I'll add some definitions to the final. |
+| A comparison case would help drive home points | I'll look into other suburban areas that have been more successful in sustainable development and make a compare/contrast section. |
 
-> ...include any final thoughts you have here. 
+Overall, I think this feedback helps a lot, and I feel pretty good heading into the final part of the project (though getting through all of this in a minute could be tough!).
