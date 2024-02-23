@@ -73,7 +73,7 @@ Northern Virginia is a dynamic area - as my hometown, I've been witness to a lot
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-## Declines in commute times and car-commuting can be seen post-2020, however Census Data suggests that this was mostly due to increased work-from-home, rather than significant increases in alternative forms of transportation.**
+## Declines in commute times and car-commuting can be seen post-2020, however Census Data suggests that this was mostly due to increased work-from-home, rather than significant increases in alternative forms of transportation.
 
 **It makes sense that commute times would drop, given the increased number of people working from home - especially since the trends in both graphs below seemed to shift at about the same time. Given that, I believe the pre-2020 numbers provide a more accurate picture of the area trends. The areas remain car dependent overall.** 
 
