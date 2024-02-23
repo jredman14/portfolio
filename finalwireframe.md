@@ -135,12 +135,10 @@ My main audience is policymakers and the public in Northern Virginia. I ultimate
 | Next steps | What visualizations that I didn't include here would you recommend including? Is there any form of analysis that would make the analysis more persuasive? |
 
 
-Text here!
-
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-| Questions               | Interview 1 | Interview 2 | Interview 3 |
+| Questions | Interview 1 (mid 20s, NOVA resident | Interview 2 (mid 20s, NOVA resident | Interview 3 (mid 20s, spent time in NOVA)|
 |-------------------------|--------------------------------|-------------|-------------|
 | Given your knowledge of the area, is there anything notable you think I missed? |           |             |             |
 | What other population level statistics would have been useful in explaning the development patterns of the area? |             |             |             |
@@ -156,8 +154,6 @@ tktk
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
-
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
@@ -167,5 +163,3 @@ Text here!
 | ...add more rows as necessary            |                                                                                 |
 
 > ...include any final thoughts you have here. 
-
-Text here!
