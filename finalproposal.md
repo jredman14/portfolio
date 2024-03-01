@@ -1,4 +1,5 @@
-[Final Project Part 2](/portfolio/finalwireframe.html)
+| [Home](https://jredman14.github.io/portfolio) | [Visualizing Debt](govdebt) | [Critique by Design](athletes) | [Final Project Part 2](finalwireframe) | [Final Project Part 3](finalproject)
+
 # Final Project Part 1
 For this assignment, I proposed a topic for my final project in Telling Stories with Data. Below, you'll find a summary of my proposal, an outline of my project, the data sources I plan to use in various visualizations, rough sketches of said visualizations, and my initial idea for how I will compile and present my project.
 
