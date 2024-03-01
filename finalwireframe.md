@@ -1,4 +1,4 @@
-| [Home](https://jredman14.github.io/portfolio) | [Visualizing Debt](govdebt) | [Critique by Design](athletes) | [Final Project Part 1](finalproposal) | [Final Project Part 3](finalproject)
+| [Home](https://jredman14.github.io/portfolio) | [Visualizing Debt](govdebt) | [Critique by Design](athletes) | [Final Project Part 1](finalproposal) | [Final Project Part 3](finalproject) |
 
 # Wireframes / storyboards
 Northern Virginia is a dynamic area - as my hometown, I've been witness to a lot of the growth the area has seen in the past two decades. From intense development in the ex-urbs, to new toll roads and train stations, and huge lifestyle centers being built, NOVA continues to change - not always for the better. Ultimately, I want to use the following metrics to argue for a more sustainable, compact development structure.
