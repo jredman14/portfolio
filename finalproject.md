@@ -1,7 +1,7 @@
 | [Home](https://jredman14.github.io/portfolio) | [Visualizing Debt](govdebt) | [Critique by Design](athletes) | [Final Project 1](finalproposal) | [Final Project 2](finalwireframe) |
 
 # My Final Data Story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+You can find my final Shorthand story [here](https://carnegiemellon.shorthandstories.com/nova-future/index.html).
 
 # Changes Made Since Part 2
 
