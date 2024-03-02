@@ -1,3 +1,5 @@
+| [Home](https://jredman14.github.io/portfolio) | [Visualizing Debt](govdebt) | [Final Project 1](finalproposal) | [Final Project 2](finalwireframe) | [Final Project 3](finalproject) |
+
 # Critique by Design with Tableau (Makeover Monday)
 
 For this exercise, I chose to critique a data visualization from Forbes that appeared on [Makeover Monday](https://makeovermonday.co.uk/) earlier this year. The vizualization showed the [50 highest paid athletes in the world](https://www.forbes.com/lists/athletes/?sh=6cc2c3a95b7e). The visualization was basically just a grid, with rows for each athlete and columns for their sport, total pay, on-field pay (like salary and winnings), and off-field pay (like payments from endorsement deals). There was no color coding or graphical element to the design, only numbers representing each athlete's compensation. I picked this visualization because I thought there was a lot to improve on, and I'm a big sports fan that also pays attention a lot to the business-side (salary caps, collective bargaining agreements, TV deals, and the like) of various leagues and associations.  
