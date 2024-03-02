@@ -51,5 +51,5 @@ This page contains my final project wireframes and observations from user feedba
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-# Final Project Part 3
+# [Final Project Part 3](/finalproject.md)
 coming soon
