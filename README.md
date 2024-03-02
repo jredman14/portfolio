@@ -52,4 +52,5 @@ This page contains my final project wireframes and observations from user feedba
 </script>
 
 # [Final Project Part 3](/finalproject.md)
-coming soon
+
+You can find my final Shorthand story [here](https://carnegiemellon.shorthandstories.com/nova-future/index.html).
