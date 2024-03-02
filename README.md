@@ -34,12 +34,18 @@ Here are a few examples of my work:
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-# [Final Project Part 1](/finalproposal.md)
+# Final Project
+
+For my final project, I conducted an analysis of northern Virginia counties and recommended supporting smart growth. Youcan find my progress below.
+
+## [Final Project Part 1](/finalproposal.md)
+
 This page contains my final project proposal, which includes a summary, outline, data sources and rough sketches, and the programs I plan to use to finish my project. 
 
 ![image](https://github.com/jredman14/portfolio/assets/156849712/c20059b3-ef7a-4475-ab8a-562dae63d47d)
 
-# [Final Project Part 2](/finalwireframe.md)
+## [Final Project Part 2](/finalwireframe.md)
+
 This page contains my final project wireframes and observations from user feedback.
 <div class='tableauPlaceholder' id='viz1708660843869' style='position: relative'><noscript><a href='#'><img alt='Despite Continued Growth, Home Building has StalledNumber of Building Permits for Private Housing Structures in Fairfax, Arlington, Loudoun, and Prince William Counties (1990-2022) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NO&#47;NOVA_17085879082270&#47;BuildPermit&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NOVA_17085879082270&#47;BuildPermit' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NO&#47;NOVA_17085879082270&#47;BuildPermit&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -51,6 +57,6 @@ This page contains my final project wireframes and observations from user feedba
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-# [Final Project Part 3](/finalproject.md)
+## [Final Project Part 3](/finalproject.md)
 
 You can find my final Shorthand story [here](https://carnegiemellon.shorthandstories.com/nova-future/index.html).
